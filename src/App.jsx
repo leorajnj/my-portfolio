@@ -210,7 +210,7 @@ function App() {
         <h2 className="section-title">My Latest Project</h2>
         <p className="section-subtitle">Some real-world projects I worked on.</p>
         <div className="card-grid">
-          <a href="https://ticket-booking-bf77er9qk-leos-projects-9675287e.vercel.app" target="_blank" rel="noreferrer" className="card-item">
+          <a href="https://ticketbookin.netlify.app/" target="_blank" rel="noreferrer" className="card-item">
             <img src={ticketImg} alt="ticket" />
             <div className="card-info"><span>Web App</span><h3>Bus Booking App</h3></div>
           </a>
