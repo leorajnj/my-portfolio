@@ -240,11 +240,6 @@ function App() {
             </div>
           )}
 
-          <div className="contact-details">
-            <p><strong>Phone:</strong> +91 9876543210</p>
-            <p><strong>WhatsApp:</strong> +91 9876543210</p>
-            <p><strong>Email:</strong> yourmail@gmail.com</p>
-          </div>
         </div>
 
         <div className="contact-right">
