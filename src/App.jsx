@@ -76,15 +76,15 @@ function App() {
         <div className="popup-overlay" onClick={() => setShowPopup(false)}>
           <div className="popup-card" onClick={(e) => e.stopPropagation()}>
             <h3>Contact Me</h3>
-            <p>📞 Phone: +91 98765 43210</p>
+            <p>Phone:+91 7708745841</p>
             <p>
-              💬 WhatsApp:{" "}
+              Mail:{" "}
               <a
-                href="https://wa.me/919876543210"
+                href="mailto:leoraj.nj20@gmail.com" 
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Chat Now
+                Mail
               </a>
             </p>
             <button className="close-btn" onClick={() => setShowPopup(false)}>Close</button>
