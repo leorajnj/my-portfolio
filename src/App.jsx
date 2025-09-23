@@ -218,7 +218,7 @@ function App() {
             <img src={foodappImg} alt="" />
             <div className="card-info"><span>Web Design</span><h3>Coffee shop</h3></div>
           </a>
-          <a href="https://login-4yqj0d58a-leos-projects-9675287e.vercel.app" target="_blank" rel="noreferrer" className="card-item">
+          <a href="https://login-webdesign.netlify.app/" target="_blank" rel="noreferrer" className="card-item">
             <img src={loginImg} alt="login" />
             <div className="card-info"><span>web Design</span><h3>Login page</h3></div>
           </a>
