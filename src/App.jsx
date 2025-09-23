@@ -76,11 +76,11 @@ function App() {
         <div className="popup-overlay" onClick={() => setShowPopup(false)}>
           <div className="popup-card" onClick={(e) => e.stopPropagation()}>
             <h3>Contact Me</h3>
-            <p>Phone:+91 7708745841</p>
+            <p>Phone: +91 7708745841</p>
             <p>
-              Mail:leoraj.nj20@gmail.com{" "}
+              Mail: leoraj.nj20@gmail.com{" "}
               <a
-                href="mailto:leoraj.nj20@gmail.com" 
+                href="mailto: leoraj.nj20@gmail.com" 
                 target="_blank"
                 rel="noopener noreferrer"
               >
