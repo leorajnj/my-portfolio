@@ -57,17 +57,14 @@ function App() {
 
         <div className="nav-right">
           <div className="social-icons">
-            <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/leorajnj/" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-github"></i>
             </a>
-            <a href="mailto:yourmail@gmail.com" target="_blank" rel="noopener noreferrer">
+            <a href="mailto:leoraj.nj20@gmail.com" target="_blank" rel="noopener noreferrer">
               <i className="fas fa-envelope"></i>
             </a>
-            <a href="https://www.linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/leorajnj20112003/" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-linkedin-in"></i>
-            </a>
-            <a href="https://www.instagram.com/yourprofile" target="_blank" rel="noopener noreferrer">
-              <i className="fab fa-instagram"></i>
             </a>
           </div>
           <button className="btn" onClick={() => setShowPopup(true)}>Let’s Talk</button>
