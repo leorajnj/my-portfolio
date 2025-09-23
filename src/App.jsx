@@ -78,7 +78,7 @@ function App() {
             <h3>Contact Me</h3>
             <p>Phone:+91 7708745841</p>
             <p>
-              Mail:{" "}
+              Mail:leoraj.nj20@gmail.com{" "}
               <a
                 href="mailto:leoraj.nj20@gmail.com" 
                 target="_blank"
